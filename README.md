@@ -34,3 +34,6 @@ To evaluate the trained BiT model on your dataset, use the evaluate.py script. U
 
 ## Results
 The results obtained from training and evaluating the BiT model will be stored in the results/ directory. This directory contains logs, performance metrics, and visualizations that provide insights into the model's performance.
+![3b6ee7bd-cc5b-4022-99b0-7a64572a6a68](https://github.com/PurnaChandar26/Image-Classification-using-BiT/assets/97793147/9788dbe3-f1a9-4882-9450-947d852aefc1)
+![d2e0dd2f-2f78-49fa-8f33-61a7ad40c26b](https://github.com/PurnaChandar26/Image-Classification-using-BiT/assets/97793147/b4c37809-5b94-4fc3-a675-506bdb34fb13)
+![f3eb63bc-981a-47ef-812a-0b44fb5c4f22](https://github.com/PurnaChandar26/Image-Classification-using-BiT/assets/97793147/5cc5691f-d66b-4fec-a7bd-504a7a979bef)
